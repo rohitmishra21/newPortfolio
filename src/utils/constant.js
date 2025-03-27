@@ -2,13 +2,18 @@ const devlopmentImg = [
     {
         name: "Html",
         img:
-            "	https://dev-portfolio-template.netlify.app/static/media/html.6a342d61.svg",
+            "https://i.pinimg.com/474x/fb/1e/7f/fb1e7f9db2540c3194a9179094a925e2.jpg",
     },
 
     {
         name: "Css",
         img:
-            "	https://dev-portfolio-template.netlify.app/static/media/css.43b6f4bd.svg",
+            "https://i.pinimg.com/474x/62/1f/21/621f21fa891b48023ff7c4dff12c7aa0.jpg",
+    },
+    {
+        name: "javascript",
+        img:
+            "https://i.pinimg.com/474x/a3/e2/18/a3e21834809a55797f014498b8c345bf.jpg",
     },
     {
         name: "tailwind",
@@ -16,11 +21,7 @@ const devlopmentImg = [
     },
 
 
-    {
-        name: "javascript",
-        img:
-            "	https://dev-portfolio-template.netlify.app/static/media/javascript.e9360603.svg",
-    },
+
     {
         name: "React",
         img: "https://dev-portfolio-template.netlify.app/static/media/react.2b6a0717.svg"
@@ -28,7 +29,7 @@ const devlopmentImg = [
 
     {
         name: "node",
-        img: "https://i.pinimg.com/736x/f3/4a/02/f34a0218dd2e38726c52ac763df55fa7.jpg"
+        img: "https://i.pinimg.com/474x/99/49/77/994977c48fde58ac674a2d05ba5a5efb.jpg"
     },
     {
         name: "node",
@@ -54,7 +55,7 @@ export const animationSkills = [
     {
         name: "figma",
         img:
-            "		https://i.pinimg.com/474x/50/4d/6e/504d6e8cbb28084663aaba3bbe9892ab.jpg",
+            "	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUK3OiY0XLN_0corKPz8pGn_bGdS-XmFZd0oY1qIvAfqHYQ60bDPbPKBPZEJgpEf6opbM&usqp=CAU",
     },
 
     {
@@ -68,7 +69,7 @@ export const animationSkills = [
     },
     {
         name: "git",
-        img: "https://i.pinimg.com/474x/ac/58/ea/ac58ea5f8c7a2a3d707201e3352874f9.jpg"
+        img: "https://i.pinimg.com/474x/cf/5f/7d/cf5f7dca8d30d52a39f4043f3796d7f0.jpg"
 
     },
     {
@@ -79,6 +80,26 @@ export const animationSkills = [
     {
         name: "git",
         img: "https://i.pinimg.com/474x/c4/49/da/c449dae8835cbf529ccd07999c2bc5aa.jpg"
+
+    },
+    {
+        name: "git",
+        img: "https://i.pinimg.com/474x/eb/8c/b7/eb8cb7166421da50026ea21afb0e3b2e.jpg"
+
+    },
+    {
+        name: "git",
+        img: "https://img.daisyui.com/images/daisyui-logo/daisyui-logomark-1024-1024.png"
+
+    },
+    {
+        name: "git",
+        img: "https://i.pinimg.com/736x/81/67/fb/8167fbf1c5c31df8aba81d46ee3663ab.jpg"
+
+    },
+    {
+        name: "git",
+        img: "https://i.pinimg.com/474x/82/a0/d0/82a0d0900cb1a2801b2a0f5988991baf.jpg"
 
     },
 
