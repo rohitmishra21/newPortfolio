@@ -28,12 +28,12 @@ const ProjectContaner = () => {
 
     return (
         <div className='flex flex-wrap justify-center mt-20 items-center'>
-            <div className='flex w-[60vw] flex-wrap gap-4'>
+            <div className='flex md:w-[60vw] px-11 flex-wrap gap-4'>
                 {projects.map((img) => (
                     <Project key={img.id} img={img} id={img.id} />
                 ))}
             </div>
-            <div className='w-96 md:my-0 my-36 md:h-[80vh] flex justify-center items-center '>
+            <div className='w-96 md:my-0 my-20 mb-0 md:h-[80vh] flex justify-center items-center '>
 
                 <a className='cursor-pointer' href="https://github.com/rohitmishra21"><img src="https://asynchronousjavascriptor.github.io/pflo/images/seemywork.png" alt="" /></a>
             </div>

@@ -8,7 +8,7 @@ const Project = ({ img, id }) => {
   return (
     <div className=''>
       <div className=' '>
-        <div onClick={(e) => { clickHendller(e) }} className='z-30 hover:scale-95 duration-200 transition-all cursor-pointer relative h-96 w-96'>
+        <div onClick={(e) => { clickHendller(e) }} className='z-30 hover:scale-95 duration-200 transition-all cursor-pointer relative md:h-96 h-64 w-64 md:w-96'>
           <img id={id} src={img.bgImg} className='w-full rounded h-full object-center object-cover' alt="" />
           {id == isId ? <motion.div
             initial={{ height: 0 }}
