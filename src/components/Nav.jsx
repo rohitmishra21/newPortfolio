@@ -11,7 +11,7 @@ const Nav = () => {
                 <ul className='flex font-medium items-center gap-7'>
                     <li className='text-[#8ED7EE] cursor-pointer'>Home</li>
                     <li className='text-black/30 hover:text-[#8ED7EE]  transition-all duration-300 cursor-pointer '><a href="#abc">Work Sample</a></li>
-                    <li className='text-black/30 hover:text-[#8ED7EE]  transition-all duration-300 cursor-pointer '>  <a href="../name/rohit.pdf" download="Resume_Rohit.pdf">Download resume</a></li>
+                    <li className='text-black/30 hover:text-[#8ED7EE]  transition-all duration-300 cursor-pointer '>  <a href="../name/Rohit-MERN-Resume.pdf" download="Resume_Rohit.pdf">Download resume</a></li>
                     <div className='flex items-center '>
                         <img width={30} src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="" />
                         <li><a href="https://github.com/rohitmishra21">GitHub</a></li>
